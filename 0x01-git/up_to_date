@@ -1,1 +1,1 @@
-git fetch --all
+git fetch coworkers_repo coworkers/feature_branch fetching coworkers/feature_brand
